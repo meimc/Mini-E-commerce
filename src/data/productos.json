@@ -1,0 +1,806 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "marca": "Samsung",
+      "modelo": "Galaxy Z Fold7",
+      "lanzamiento": "2025",
+      "descripcion": "El dispositivo plegable de tipo libro más avanzado del mercado estadounidense, ideal para la productividad y el entorno corporativo. Presenta una bisagra rediseñada que elimina por completo el pliegue central y una pantalla externa mucho más ancha y cómoda para el uso diario.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Plata Sombra",
+            "precio": 7499,
+            "stock": 4,
+            "imagen": "assets/zfold7-plata-sombra.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Rosa Marino",
+            "precio": 7499,
+            "stock": 9,
+            "imagen": "assets/zfold7-rosa-marino.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Negro Artesanal",
+            "precio": 7499,
+            "stock": 1,
+            "imagen": "assets/zfold7-negro-artesanal.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Plata Sombra",
+            "precio": 7999,
+            "stock": 7,
+            "imagen": "assets/zfold7-plata-sombra.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Rosa Marino",
+            "precio": 7999,
+            "stock": 3,
+            "imagen": "assets/zfold7-rosa-marino.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Negro Artesanal",
+            "precio": 7999,
+            "stock": 8,
+            "imagen": "assets/zfold7-negro-artesanal.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Plata Sombra",
+            "precio": 8999,
+            "stock": 0,
+            "imagen": "assets/zfold7-plata-sombra.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Rosa Marino",
+            "precio": 8999,
+            "stock": 5,
+            "imagen": "assets/zfold7-rosa-marino.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Negro Artesanal",
+            "precio": 8999,
+            "stock": 10,
+            "imagen": "assets/zfold7-negro-artesanal.webp"
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "marca": "Oppo",
+      "modelo": "Find X8 Ultra",
+      "lanzamiento": "2025",
+      "descripcion": "Buque insignia de anterior generación enfocado en fotografía extrema gracias a su colaboración con Hasselblad, sensores duales periscópicos y el chip Snapdragon 8 Elite.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Negro Cosmico",
+            "precio": 4299,
+            "stock": 6,
+            "imagen": "assets/findx8u-negro-cosmico.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Azul Oceanico",
+            "precio": 4299,
+            "stock": 2,
+            "imagen": "assets/findx8u-azul-oceanico.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Blanco Perla",
+            "precio": 4299,
+            "stock": 8,
+            "imagen": "assets/findx8u-blanco-perla.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Negro Cosmico",
+            "precio": 4699,
+            "stock": 0,
+            "imagen": "assets/findx8u-negro-cosmico.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Azul Oceanico",
+            "precio": 4699,
+            "stock": 5,
+            "imagen": "assets/findx8u-azul-oceanico.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Blanco Perla",
+            "precio": 4699,
+            "stock": 9,
+            "imagen": "assets/findx8u-blanco-perla.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Negro Cosmico",
+            "precio": 5299,
+            "stock": 3,
+            "imagen": "assets/findx8u-negro-cosmico.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Azul Oceanico",
+            "precio": 5299,
+            "stock": 7,
+            "imagen": "assets/findx8u-azul-oceanico.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Blanco Perla",
+            "precio": 5299,
+            "stock": 4,
+            "imagen": "assets/findx8u-blanco-perla.webp"
+          }
+      ]
+    },
+    {
+      "id": 3,
+      "marca": "Oppo",
+      "modelo": "Find X9 Ultra",
+      "lanzamiento": "2026",
+      "descripcion": "El flagship más avanzado de Oppo. Incorpora una pantalla hiperbrillante, una masiva batería de ánodo de silicio de más de 7,000 mAh y el nuevo procesador Snapdragon 8 Elite Gen 5.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Marron Tundra",
+            "precio": 5199,
+            "stock": 1,
+            "imagen": "assets/findx9u-marron-tundra.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Naranja Canion",
+            "precio": 5199,
+            "stock": 7,
+            "imagen": "assets/findx9u-naranja-canion.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Marron Tundra",
+            "precio": 5699,
+            "stock": 10,
+            "imagen": "assets/findx9u-marron-tundra.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Naranja Canion",
+            "precio": 5699,
+            "stock": 3,
+            "imagen": "assets/findx9u-naranja-canion.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Marron Tundra",
+            "precio": 6399,
+            "stock": 5,
+            "imagen": "assets/findx9u-marron-tundra.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Naranja Canion",
+            "precio": 6399,
+            "stock": 8,
+            "imagen": "assets/findx9u-naranja-canion.webp"
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "marca": "Xiaomi",
+      "modelo": "17 Ultra",
+      "lanzamiento": "2026",
+      "descripcion": "La bestia fotográfica del año. Integra sensores ópticos Leica de última generación con apertura variable física, cuerpo con fibra de carbono y carga ultrarrápida.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Negro Ceramica",
+            "precio": 5499,
+            "stock": 9,
+            "imagen": "assets/17u-negro-ceramica.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Blanco Titanio",
+            "precio": 5499,
+            "stock": 2,
+            "imagen": "assets/17u-blanco-titanio.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Verde Oliva",
+            "precio": 5499,
+            "stock": 6,
+            "imagen": "assets/17u-verde-oliva.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Negro Ceramica",
+            "precio": 5999,
+            "stock": 6,
+            "imagen": "assets/17u-negro-ceramica.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Blanco Titanio",
+            "precio": 5999,
+            "stock": 4,
+            "imagen": "assets/17u-blanco-titanio.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Verde Oliva",
+            "precio": 5999,
+            "stock": 0,
+            "imagen": "assets/17u-verde-oliva.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Negro Ceramica",
+            "precio": 6699,
+            "stock": 7,
+            "imagen": "assets/17u-negro-ceramica.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Blanco Titanio",
+            "precio": 6699,
+            "stock": 3,
+            "imagen": "assets/17u-blanco-titanio.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Verde Oliva",
+            "precio": 6699,
+            "stock": 5,
+            "imagen": "assets/17u-verde-oliva.webp"
+          }
+      ]
+    },
+    {
+      "id": 5,
+      "marca": "iPhone",
+      "modelo": "17",
+      "lanzamiento": "2025",
+      "descripcion": "El modelo estándar de Apple de última generación. Integra el chip A19, pantalla de alta tasa de refresco por primera vez en la línea base y funciones extendidas de Apple Intelligence.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Lavanda",
+            "precio": 4699,
+            "stock": 5,
+            "imagen": "assets/17-lavanda.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Verde Menta",
+            "precio": 4699,
+            "stock": 10,
+            "imagen": "assets/17-verde-menta.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Azul Niebla",
+            "precio": 4699,
+            "stock": 1,
+            "imagen": "assets/17-azul-niebla.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Blanco",
+            "precio": 4699,
+            "stock": 4,
+            "imagen": "assets/17-blanco.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Negro",
+            "precio": 5499,
+            "stock": 8,
+            "imagen": "assets/17-negro.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Lavanda",
+            "precio": 5599,
+            "stock": 6,
+            "imagen": "assets/17-lavanda.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Verde Menta",
+            "precio": 5599,
+            "stock": 2,
+            "imagen": "assets/17-verde-menta.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Azul Niebla",
+            "precio": 5599,
+            "stock": 8,
+            "imagen": "assets/17-azul-niebla.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Blanco",
+            "precio": 5599,
+            "stock": 5,
+            "imagen": "assets/17-blanco.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Negro",
+            "precio": 5599,
+            "stock": 0,
+            "imagen": "assets/17-negro.webp"
+          }
+      ]
+    },
+    {
+      "id": 6,
+      "marca": "iPhone",
+      "modelo": "17e",
+      "lanzamiento": "2025",
+      "descripcion": "El dispositivo de entrada rediseñado de Apple enfocado en accesibilidad económica, manteniendo el ecosistema iOS moderno, un lente principal solvente y un cuerpo compacto.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Blanco",
+            "precio": 3599,
+            "stock": 6,
+            "imagen": "assets/17e-blanco.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Negro",
+            "precio": 3599,
+            "stock": 10,
+            "imagen": "assets/17e-negro.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Rosa Pastel",
+            "precio": 3599,
+            "stock": 5,
+            "imagen": "assets/17e-rosa-pastel.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Blanco",
+            "precio": 3999,
+            "stock": 1,
+            "imagen": "assets/17e-blanco.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Negro",
+            "precio": 3999,
+            "stock": 4,
+            "imagen": "assets/17e-negro.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Rosa Pastel",
+            "precio": 3999,
+            "stock": 9,
+            "imagen": "assets/17e-rosa-pastel.webp"
+          }
+      ]
+    },
+    {
+      "id": 7,
+      "marca": "Samsung",
+      "modelo": "Galaxy S26 Ultra",
+      "lanzamiento": "2026",
+      "descripcion": "El buque insignia definitivo de Samsung. Construido en titanio, cuenta con una pantalla plana de alta resistencia antirreflejos Gorilla Armor 2, S-Pen integrado y el procesador Snapdragon 8 Elite Gen 5.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Gris Titanio",
+            "precio": 5699,
+            "stock": 8,
+            "imagen": "assets/s26u-gris-titanio.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Negro Titanio",
+            "precio": 5699,
+            "stock": 2,
+            "imagen": "assets/s26u-negro-titanio.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Violeta Titanio",
+            "precio": 5699,
+            "stock": 5,
+            "imagen": "assets/s26u-violeta-titanio.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Gris Titanio",
+            "precio": 6199,
+            "stock": 7,
+            "imagen": "assets/s26u-gris-titanio.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Negro Titanio",
+            "precio": 6199,
+            "stock": 9,
+            "imagen": "assets/s26u-negro-titanio.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Violeta Titanio",
+            "precio": 6199,
+            "stock": 3,
+            "imagen": "assets/s26u-violeta-titanio.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Gris Titanio",
+            "precio": 6999,
+            "stock": 10,
+            "imagen": "assets/s26u-gris-titanio.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Negro Titanio",
+            "precio": 6999,
+            "stock": 4,
+            "imagen": "assets/s26u-negro-titanio.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Violeta Titanio",
+            "precio": 6999,
+            "stock": 6,
+            "imagen": "assets/s26u-violeta-titanio.webp"
+          }
+      ]
+    },
+    {
+      "id": 8,
+      "marca": "Google",
+      "modelo": "Pixel 10 Pro",
+      "lanzamiento": "2025",
+      "descripcion": "Potencia de gama alta compacta. Estrena el procesador Tensor G5 fabricado por TSMC y destaca por su procesamiento fotográfico computacional nativo y Gemini integrado a nivel de sistema.",
+      "variantes": [
+          {
+            "memoria": 128,
+            "color": "Obsidiana",
+            "precio": 4399,
+            "stock": 4,
+            "imagen": "assets/pixel10p-obsidiana.webp"
+          },
+          {
+            "memoria": 128,
+            "color": "Porcelana",
+            "precio": 4399,
+            "stock": 1,
+            "imagen": "assets/pixel10p-porcelana.webp"
+          },
+
+          {
+            "memoria": 256,
+            "color": "Obsidiana",
+            "precio": 4799,
+            "stock": 7,
+            "imagen": "assets/pixel10p-obsidiana.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Porcelana",
+            "precio": 4799,
+            "stock": 0,
+            "imagen": "assets/pixel10p-porcelana.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Obsidiana",
+            "precio": 5399,
+            "stock": 10,
+            "imagen": "assets/pixel10p-obsidiana.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Porcelana",
+            "precio": 5399,
+            "stock": 2,
+            "imagen": "assets/pixel10p-porcelana.webp"
+          }
+      ]
+    },
+    {
+      "id": 9,
+      "marca": "Samsung",
+      "modelo": "Galaxy S26 Plus",
+      "lanzamiento": "2026",
+      "descripcion": "Versión de formato grande y estilizado de la línea S26. Ofrece una autonomía estelar, pantalla dinámica AMOLED 2X de 6.7 pulgadas y todas las capacidades AI del modelo superior.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Gris Marmol",
+            "precio": 4599,
+            "stock": 1,
+            "imagen": "assets/s26p-gris-marmol.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Negro Onix",
+            "precio": 4599,
+            "stock": 6,
+            "imagen": "assets/s26p-negro-onix.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Violeta Cobalto",
+            "precio": 4599,
+            "stock": 9,
+            "imagen": "assets/s26p-violeta-cobalto.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Gris Marmol",
+            "precio": 5099,
+            "stock": 5,
+            "imagen": "assets/s26p-gris-marmol.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Negro Onix",
+            "precio": 5099,
+            "stock": 0,
+            "imagen": "assets/s26p-negro-onix.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Violeta Cobalto",
+            "precio": 5099,
+            "stock": 8,
+            "imagen": "assets/s26p-violeta-cobalto.webp"
+          }
+      ]
+    },
+    {
+      "id": 10,
+      "marca": "Oppo",
+      "modelo": "Reno 15 Pro",
+      "lanzamiento": "2026",
+      "descripcion": "Dispositivo enfocado en el sector de diseño y retratos de gama media-alta, llamativo acabado trasero texturizado y un excelente balance energético.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Azul Glaciar",
+            "precio": 2499,
+            "stock": 7,
+            "imagen": "assets/reno15p-azul-glaciar.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Plata Estelar",
+            "precio": 2499,
+            "stock": 3,
+            "imagen": "assets/reno15p-plata-estelar.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Azul Glaciar",
+            "precio": 2899,
+            "stock": 5,
+            "imagen": "assets/reno15p-azul-glaciar.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Plata Estelar",
+            "precio": 2899,
+            "stock": 2,
+            "imagen": "assets/reno15p-plata-estelar.webp"
+          }
+      ]
+    },
+    {
+      "id": 11,
+      "marca": "Xiaomi",
+      "modelo": "Mix Flip",
+      "lanzamiento": "2025",
+      "descripcion": "El primer diseño plegable compacto (estilo concha) de Xiaomi distribuido de manera global. Ofrece un panel externo de gran tamaño que elimina la necesidad de abrir constantemente el dispositivo.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Negro Carbon",
+            "precio": 3999,
+            "stock": 8,
+            "imagen": "assets/mixflip-negro-carbon.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Plata Estelar",
+            "precio": 3999,
+            "stock": 4,
+            "imagen": "assets/mixflip-purpurina-purpura.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Negro Carbon",
+            "precio": 4399,
+            "stock": 9,
+            "imagen": "assets/mixflip-negro-carbon.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Plata Estelar",
+            "precio": 4399,
+            "stock": 3,
+            "imagen": "assets/mixflip-purpurina-purpura.webp"
+          }
+      ]
+    },
+    {
+      "id": 12,
+      "marca": "Google",
+      "modelo": "Pixel 10a",
+      "lanzamiento": "2026",
+      "descripcion": "El smartphone de gama media más competitivo de Google. Rompe récords de valor por dinero incorporando el mismo hardware de IA que las opciones Pro a un coste sustancialmente menor.",
+      "variantes": [
+          {
+            "memoria": 128,
+            "color": "Bahia",
+            "precio": 2299,
+            "stock": 5,
+            "imagen": "assets/pixel10a-bahia.webp"
+          },
+          {
+            "memoria": 128,
+            "color": "Carbon",
+            "precio": 2299,
+            "stock": 0,
+            "imagen": "assets/pixel10a-carbon.webp"
+          },
+          {
+            "memoria": 128,
+            "color": "Coral",
+            "precio": 2299,
+            "stock": 7,
+            "imagen": "assets/pixel10a-coral.webp"
+          },
+          {
+            "memoria": 128,
+            "color": "Niebla",
+            "precio": 2299,
+            "stock": 2,
+            "imagen": "assets/pixel10a-niebla.webp"
+          },
+
+          {
+            "memoria": 256,
+            "color": "Bahia",
+            "precio": 2599,
+            "stock": 10,
+            "imagen": "assets/pixel10a-bahia.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Carbon",
+            "precio": 2599,
+            "stock": 4,
+            "imagen": "assets/pixel10a-carbon.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Coral",
+            "precio": 2599,
+            "stock": 1,
+            "imagen": "assets/pixel10a-coral.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Niebla",
+            "precio": 2599,
+            "stock": 9,
+            "imagen": "assets/pixel10a-niebla.webp"
+          }
+      ]
+    },
+    {
+      "id": 13,
+      "marca": "iPhone",
+      "modelo": "17 Pro Max",
+      "lanzamiento": "2025",
+      "descripcion": "El monarca absoluto de las ventas premium de Apple. Cuenta con la pantalla más grande, el chip de procesamiento gráfico A19 Pro y optimizaciones dedicadas para la captura de video espacial y profesional.",
+      "variantes": [
+          {
+            "memoria": 256,
+            "color": "Azul Profundo",
+            "precio": 6299,
+            "stock": 3,
+            "imagen": "assets/17pm-azul-profundo.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Naranja Cosmico",
+            "precio": 6299,
+            "stock": 6,
+            "imagen": "assets/17pm-naranja-cosmico.webp"
+          },
+          {
+            "memoria": 256,
+            "color": "Plata",
+            "precio": 6299,
+            "stock": 0,
+            "imagen": "assets/17pm-plata.webp"
+          },
+
+          {
+            "memoria": 512,
+            "color": "Azul Profundo",
+            "precio": 7199,
+            "stock": 5,
+            "imagen": "assets/17pm-azul-profundo.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Naranja Cosmico",
+            "precio": 7199,
+            "stock": 1,
+            "imagen": "assets/17pm-naranja-cosmico.webp"
+          },
+          {
+            "memoria": 512,
+            "color": "Plata",
+            "precio": 7199,
+            "stock": 9,
+            "imagen": "assets/17pm-plata.webp"
+          },
+
+          {
+            "memoria": 1,
+            "color": "Azul Profundo",
+            "precio": 8099,
+            "stock": 2,
+            "imagen": "assets/17pm-azul-profundo.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Naranja Cosmico",
+            "precio": 8099,
+            "stock": 7,
+            "imagen": "assets/17pm-naranja-cosmico.webp"
+          },
+          {
+            "memoria": 1,
+            "color": "Plata",
+            "precio": 8099,
+            "stock": 3,
+            "imagen": "assets/17pm-plata.webp"
+          }
+      ]
+    }
+  ]
+}
